@@ -1,0 +1,67 @@
+.navbar {
+    background-color:rgb(139, 160, 177);
+    padding: 15px;
+    font-family:'Times New Roman';
+
+}
+
+.navbar a {
+    text-decoration:none;
+    color:white;
+}
+ 
+.navbar-brand {
+    font-size:25px;
+}
+body {
+    background-color:rgb(242, 245, 247)
+}
+.btn {
+    background-color:rgb(139, 160, 177);
+    border-color: rgb(139, 160, 177);
+    color:white;
+    font-family:'Times New Roman';
+}
+
+a {
+    color:rgb(139, 160, 177);
+}
+
+.btn:hover {
+    background-color:rgb(139, 160, 177);
+    border-color: rgb(139, 160, 177); 
+}
+
+h1 {
+    background-color:rgb(190, 206, 219);
+    color:white;
+    font-family:'Times New Roman'
+}
+
+h3 {
+    background-color:rgb(186, 202, 214);
+    color:white;
+    font-family:'Times New Roman';
+    text-align: center;
+
+}
+
+h4 {
+    background-color:rgb(186, 202, 214);
+    color:white;
+    font-family:'Times New Roman'
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman'
+}
+
+#alignleft {
+   text-align:left; 
+   margin-right: 15px;
+}
+
+
+
+
